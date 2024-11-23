@@ -3,3 +3,7 @@ ab file is created
 sort{
 helo i am sorting
 }
+
+QuickSort{
+it is quicksort
+}
