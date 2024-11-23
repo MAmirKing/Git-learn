@@ -4,6 +4,11 @@ sort{
 helo i am sorting
 }
 
+
 MergeSort{
 this is merge sort
+}
+QuickSort{
+it is quicksort
+ QuickSort
 }
